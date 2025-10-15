@@ -6,7 +6,7 @@
 
 Detail description
 
-![Running Game] ()
+! [Running Game] ()
 
 * [Windows]()
 * [MacOs]()
