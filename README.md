@@ -19,6 +19,6 @@ Health System: Your ship has health — lose health when hit by rocks. Game over
 
 ! [Running Game] (<img width="1920" height="1080" alt="Screenshot 2025-10-22 at 9 30 30 AM" src="https://github.com/user-attachments/assets/dbf2ba77-3fe4-4a90-8b08-9f66d0f41f37" />)
 
-* [Windows]()
-* [MacOs]()
+* [Windows](https://github.com/Henrygrif1/Myportfolio1/blob/main/scr/windows-amd64.zip)
+* [MacOs](https://github.com/Henrygrif1/Myportfolio1/blob/main/scr/macos-x86_64.zip)
 * [Source Code] ()
