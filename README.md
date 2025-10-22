@@ -6,7 +6,7 @@
 
 Blast your way through space! Use your laser cannons to destroy incoming rocks and survive as long as you can. Each level gets harder, with more rocks and faster action!
 
-🔫 Game Features:
+ Game Features:
 
 Laser Shooting: Fire lasers to destroy space rocks (asteroids).
 
