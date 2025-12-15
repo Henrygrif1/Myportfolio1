@@ -28,4 +28,31 @@ Health System: Your ship has health — lose health when hit by rocks. Game over
 
 ### VelociKart Racing
 
-My third project I worked on in Game Developement. A group project that is a top down racing game that has many forms of collision detections.
+VelociKart Racing is a fast-paced top-down racing game created as a group project during Term 2 of my Game Development class. The goal of this game is to race against opponents and cross the finish line first, while mastering movement mechanics, collision detection, and strategic use of power-ups and obstacles.
+
+We worked together as a team to design the core gameplay systems and build exciting race tracks. My role included creating artwork and contributing to game logic implementation alongside my teammates.
+
+ Key Features
+
+ Top-Down Racing Gameplay — Drive fast and turn precisely as you navigate race courses.
+
+ Collision Handling — Detect and respond to collisions between players, track boundaries, and obstacles.
+
+ Power-Ups & Obstacles — Avoid hazards and use power-ups strategically to gain the advantage.
+
+ Team Project — Built collaboratively with classmates, supporting teamwork, version control, and shared problem-solving.
+
+ Code & Structure
+
+This project includes:
+
+Asset files (images, sounds, sprites)
+
+Source code for vehicle movement, track logic, collision systems
+
+User interface and race flow logic (start, finish, and game state management)
+
+ View the full source code:
+ [sourceCode](https://github.com/KBB774/Racing-TD-Game-Group-2025/tree/main)
+ 
+github.com
