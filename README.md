@@ -1,9 +1,10 @@
 # Henry Griffin's Game Portfolio
 
-## Projects for Term 1
+## Projects for Term 1/2 
 
-### SpaceGame
+### Email- 9660444@graniteschools.org
 
+#### Space Game
 Blast your way through space! Use your laser cannons to destroy incoming rocks and survive as long as you can. Each level gets harder, with more rocks and faster action!
 
  Game Features:
