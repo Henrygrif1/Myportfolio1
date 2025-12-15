@@ -25,3 +25,7 @@ Health System: Your ship has health — lose health when hit by rocks. Game over
 * [SourceCode](https://github.com/Henrygrif1/Myportfolio1/tree/main/scr/SpaceGame)
 
   ## Projects for Term 2
+
+### VelociKart Racing
+
+My third project I worked on in Game Developement. A group project that is a top down racing game that has many forms of collision detections.
