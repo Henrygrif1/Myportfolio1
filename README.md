@@ -4,7 +4,8 @@
 
 ### Email- 9660444@graniteschools.org
 
-#### Space Game
+
+### Space Game
 Space Game is a 2D arcade-style survival shooter where the player pilots a spaceship through dangerous space filled with incoming asteroids. The objective is to destroy all enemies, survive each level, and progress through increasingly difficult waves.
 
 The game focuses on fast reaction time, precise movement, and effective shooting. As levels progress, the number of asteroids increases and their speed becomes faster, creating a more intense and challenging experience.
