@@ -5,18 +5,45 @@
 ### Email- 9660444@graniteschools.org
 
 #### Space Game
-Blast your way through space! Use your laser cannons to destroy incoming rocks and survive as long as you can. Each level gets harder, with more rocks and faster action!
+Space Game is a 2D arcade-style survival shooter where the player pilots a spaceship through dangerous space filled with incoming asteroids. The objective is to destroy all enemies, survive each level, and progress through increasingly difficult waves.
 
- Game Features:
+The game focuses on fast reaction time, precise movement, and effective shooting. As levels progress, the number of asteroids increases and their speed becomes faster, creating a more intense and challenging experience.
 
-Laser Shooting: Fire lasers to destroy space rocks (asteroids).
+🎮 Gameplay Overview
 
-Rocks (Enemies): Dodge or destroy incoming rocks to stay alive.
+The player controls a spaceship that can move around the screen and fire lasers.
 
-Levels: Complete levels by clearing all rocks. Each level gets harder!
+Asteroids spawn and move toward the player.
 
-Health System: Your ship has health — lose health when hit by rocks. Game over when health reaches 0.
+The player must shoot asteroids before they collide with the ship.
 
+Each level is completed by clearing all asteroids.
+
+The game ends when the player’s health reaches zero.
+
+🔧 Core Game Systems
+
+Player Movement System – Smooth directional movement allowing precise control.
+
+Laser Shooting System – Fire projectiles to destroy asteroids.
+
+Enemy Spawning System – Asteroids spawn in waves that increase in difficulty.
+
+Collision Detection – Detects collisions between lasers, asteroids, and the player.
+
+Health & Damage System – The player loses health upon impact with asteroids.
+
+Level Progression – Each completed level increases enemy speed and count.
+
+⭐ Key Features
+
+Progressive difficulty for long-term replayability
+
+Clear win and lose conditions
+
+Arcade-style action with fast pacing
+
+Simple but effective game design focused on core mechanics
 
 ! [Running Game] (<img width="1920" height="1080" alt="Screenshot 2025-10-22 at 9 30 30 AM" src="https://github.com/user-attachments/assets/dbf2ba77-3fe4-4a90-8b08-9f66d0f41f37" />)
 
