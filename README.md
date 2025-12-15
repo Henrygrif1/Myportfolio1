@@ -4,7 +4,7 @@
 
 ### Contact Info- 9660444@graniteschools.org
 
-####[State Certifitication](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Henry%20Griffin_Game%20Development%20Fundamentals%201_12152025.pdf)
+[State Certifitication](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Henry%20Griffin_Game%20Development%20Fundamentals%201_12152025.pdf)
 
 
 -------------------
