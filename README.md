@@ -5,7 +5,7 @@
 ### Contact Info- 9660444@graniteschools.org
 
 #### State Certification
-!(State Certifitication)
+!(State Certifitication)[
 
 
 -------------------
