@@ -54,5 +54,3 @@ User interface and race flow logic (start, finish, and game state management)
 
  View the full source code:
  [sourceCode](https://github.com/KBB774/Racing-TD-Game-Group-2025/tree/main)
- 
-github.com
