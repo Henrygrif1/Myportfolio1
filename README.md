@@ -38,7 +38,7 @@ Health & Damage System – The player loses health upon impact with asteroids.
 
 Level Progression – Each completed level increases enemy speed and count.
 
-###Key Features
+### Key Features
 
 Progressive difficulty for long-term replayability
 
