@@ -4,8 +4,9 @@
 
 [State Certifitication](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Henry%20Griffin_Game%20Development%20Fundamentals%201_12152025.pdf)
 
-## Projects for Term 1
 -------------------
+## Projects for Term 1
+
 ### Space Game
 Space Game is a 2D arcade-style survival shooter where the player pilots a spaceship through dangerous space filled with incoming asteroids. The objective is to destroy all enemies, survive each level, and progress through increasingly difficult waves.
 
