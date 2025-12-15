@@ -78,6 +78,7 @@ Asset files (images, sounds, sprites)
 Source code for vehicle movement, track logic, collision systems
 
 User interface and race flow logic (start, finish, and game state management)
+![Running Game](https://github.com/KBB774/Racing-TD-Game-Group-2025/blob/main/images/GamePhoto.png?raw=true)
 
  View the full source code:
  [sourceCode](https://github.com/KBB774/Racing-TD-Game-Group-2025/tree/main)
