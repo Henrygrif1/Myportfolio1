@@ -55,7 +55,7 @@ Simple but effective game design focused on core mechanics
 * [Windows](https://github.com/Henrygrif1/Myportfolio1/blob/main/scr/windows-amd64.zip)
 * [MacOs](https://github.com/Henrygrif1/Myportfolio1/blob/main/scr/macos-x86_64.zip)
 * [SourceCode](https://github.com/Henrygrif1/Myportfolio1/tree/main/scr/SpaceGame)
-
+-----
   ## Projects for Term 2
 
 ### VelociKart Racing
