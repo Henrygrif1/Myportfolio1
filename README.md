@@ -45,7 +45,7 @@ Arcade-style action with fast pacing
 
 Simple but effective game design focused on core mechanics
 
-! [Running Game](https://github.com/user-attachments/assets/dbf2ba77-3fe4-4a90-8b08-9f66d0f41f37)
+![Running Game](https://github.com/user-attachments/assets/dbf2ba77-3fe4-4a90-8b08-9f66d0f41f37)
 
 * [Windows](https://github.com/Henrygrif1/Myportfolio1/blob/main/scr/windows-amd64.zip)
 * [MacOs](https://github.com/Henrygrif1/Myportfolio1/blob/main/scr/macos-x86_64.zip)
