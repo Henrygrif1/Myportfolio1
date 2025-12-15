@@ -12,7 +12,7 @@ Space Game is a 2D arcade-style survival shooter where the player pilots a space
 
 The game focuses on fast reaction time, precise movement, and effective shooting. As levels progress, the number of asteroids increases and their speed becomes faster, creating a more intense and challenging experience.
 
-🎮 Gameplay Overview
+### Gameplay Overview
 
 The player controls a spaceship that can move around the screen and fire lasers.
 
@@ -24,7 +24,7 @@ Each level is completed by clearing all asteroids.
 
 The game ends when the player’s health reaches zero.
 
-🔧 Core Game Systems
+ ### Core Game Systems
 
 Player Movement System – Smooth directional movement allowing precise control.
 
@@ -38,7 +38,7 @@ Health & Damage System – The player loses health upon impact with asteroids.
 
 Level Progression – Each completed level increases enemy speed and count.
 
-⭐ Key Features
+###Key Features
 
 Progressive difficulty for long-term replayability
 
@@ -62,7 +62,7 @@ VelociKart Racing is a fast-paced top-down racing game created as a group projec
 
 We worked together as a team to design the core gameplay systems and build exciting race tracks. My role included creating artwork and contributing to game logic implementation alongside my teammates.
 
- Key Features
+### Key Features
 
  Top-Down Racing Gameplay — Drive fast and turn precisely as you navigate race courses.
 
@@ -72,7 +72,7 @@ We worked together as a team to design the core gameplay systems and build excit
 
  Team Project — Built collaboratively with classmates, supporting teamwork, version control, and shared problem-solving.
 
- Code & Structure
+ ### Code & Structure
 
 This project includes:
 
