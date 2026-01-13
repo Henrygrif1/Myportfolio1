@@ -7,8 +7,7 @@
 -------------------
 # Current Game
 -------------------
-# Game Dev 1
-## Projects for Term 1
+## Projects for Term 1 -Game Dev 1
 
 ### Space Game
 Space Game is a 2D arcade-style survival shooter where the player pilots a spaceship through dangerous space filled with incoming asteroids. The objective is to destroy all enemies, survive each level, and progress through increasingly difficult waves.
