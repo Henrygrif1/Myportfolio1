@@ -6,6 +6,8 @@
 
 -------------------
 # Current Game
+### Deliver Gta 6 Early
+#### A fast, comedic driving game where you secretly race through the city to deliver GTA 6 early—crash or get caught and it’s game over.
 -------------------
 ## Projects for Term 1 -Game Dev 1
 
