@@ -5,9 +5,9 @@
 [State Certifitication](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Henry%20Griffin_Game%20Development%20Fundamentals%201_12152025.pdf)
 
 -------------------
-#Current Game
+# Current Game
 -------------------
-#Game Dev 1
+# Game Dev 1
 ## Projects for Term 1
 
 ### Space Game
