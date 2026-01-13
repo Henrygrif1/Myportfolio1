@@ -5,6 +5,9 @@
 [State Certifitication](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Henry%20Griffin_Game%20Development%20Fundamentals%201_12152025.pdf)
 
 -------------------
+#Current Game
+-------------------
+#Game Dev 1
 ## Projects for Term 1
 
 ### Space Game
@@ -79,6 +82,7 @@ This project includes:
 Asset files (images, sounds, sprites)
 
 Source code for vehicle movement, track logic, collision systems
+
 
 User interface and race flow logic (start, finish, and game state management)
 ![Running Game](https://github.com/KBB774/Racing-TD-Game-Group-2025/blob/main/images/GamePhoto.png?raw=true)
