@@ -7,10 +7,11 @@
 -------------------
 # Current Game
 ### Deliver Gta 6 Early
-#### A fast, comedic driving game where you secretly race through the city to deliver GTA 6 early—crash or get caught and it’s game over.
+#### A fast, Horror/comedic driving game where you secretly race through the city to deliver GTA 6 early—crash or get caught and it’s game over.
 ![Game Car](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/GTA6Car.png)
 #### You deliver these to customers...
 ![Game delivery](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Game%20delivery.png)
+
 -------------------
 ## Projects for Term 1 -Game Dev 1
 
