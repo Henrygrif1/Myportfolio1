@@ -11,7 +11,6 @@
 ![Game Car](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/GTA6Car.png)
 #### You deliver these to customers...
 ![Game delivery](https://github.com/Henrygrif1/Myportfolio1/blob/main/images/Game%20delivery.png)
-
 -------------------
 ## Projects for Term 1 -Game Dev 1
 
